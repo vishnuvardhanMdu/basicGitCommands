@@ -1,0 +1,9 @@
+git commands
+
+cd C:\Users\admin\Desktop\git learning
+
+basic linux cmds
+
+diff file1.php file2.php
+> line is removed in first file 
+< line is added in second file 
